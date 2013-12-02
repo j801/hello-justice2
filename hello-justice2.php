@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */                                  
 
 function hello_justice2($content) {
-  $messages[] = '僕、君たちにお願いがあって来たんだ。僕と契約して、MonacaPressの開発者になってよ！';
+  $messages[] = '僕、君たちにお願いがあって来たんだ。山田さんと契約して、CPIのエバンジェリストになってよ！';
   $messages[] = 'よりにもよって、プラグインをGPLで公開するなんて、どうかしてるよ';
   $messages[] = '公式がGPLを優遇するなら、みんなGPLで書くしかないじゃない！あなたも・・・私もっ！';
   $messages[] = '君のソースコードはエントロピーを凌駕した';
